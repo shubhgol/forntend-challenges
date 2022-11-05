@@ -1,0 +1,158 @@
+:root {
+    font-size: 16px;
+
+    /* variables */
+
+    /* Color Palette */
+
+    /* Primary */
+    --green: #00AD33;
+    --white: #FFFFFF;
+    --orange: #E96216;
+    --blue: #1E61E8;
+
+    /* Other */
+    --aqua: #897AE3;
+    --salmon: #25CBD6;
+    --lavender: #ED55C2;
+    --lemon: #DE7548;
+    --steelblue: #DE7548;
+    --aqua2: #DE7548;
+
+    --n900: #2F1238;
+    --n800: #202020;
+    --n700: #353535;
+    --n600: #4A4A4A;
+    --n500: #606060;
+    --n400: #757575;
+    --n300: #8A8A8A;
+    --n200: #9F9F9F;
+    --n100: #B5B5B5;
+    --n75: #CACACA;
+    --n50: #DFDFDF;
+    --n25: #F4F4F4;
+
+    --b600: #1F3D99;
+    --b500: #2952CC;
+    --b400: #3366FF;
+    --b300: #9DB5FF;
+    --b200: #D6E0FF;
+    --b100: #EBF0FF;
+    --b50: #F3F6FF;
+
+    --o600: #317159;
+    --o500: #429777;
+    --o400: #52BD94;
+    --o300: #A3E6CD;
+    --o200: #DCF2EA;
+    --o100: #EEF8F4;
+    --o50: #F5FBF8;
+
+    --y600: #66460D;
+    --y500: #996A13;
+    --y400: #FFB020;
+    --y300: #FFD079;
+    --y200: #FFDFA6;
+    --y100: #FFEFD2;
+    --y50: #FFFAF1;
+
+    --r600: #7D2828;
+    --r500: #A73636;
+    --r400: #D14343;
+    --r300: #EE9191;
+    --r200: #F4B6B6;
+    --r100: #F9DADA;
+    --r50: #FDF4F4;
+
+    /* Btton:primary */
+    --p_pressed: #00943A;
+    --p_hover: #00943A;
+    --p_normal: #2F1238;
+    --p20: #E5F7EB;
+    --p10: #F2FBF5;
+    --p25 : #E9E6ED;
+    --p50 : #E5E1FE;
+    --p500 : #523264;
+    --p600 : #58396D;
+
+    /* Btton:secodary */
+    --s_pressed: #030004;
+    --s_hover: #1A0620;
+    --s_normal: #2F1238;
+
+    --c01: #74DDE5;
+    --c02: #FAC86B;
+    --c03: #678AF7;
+    --c04: #5196D5;
+    --c05: #8F59EF;
+    --c06: #FD8ADC;
+    --c07: #70B0FF;
+
+    /* Font sizes */
+    --heading-large: 3.375rem; /*54px*/
+    --heading-regular: 2.625rem; /*42px*/
+    --text-xlarge: 1.25rem; /*20px*/
+    --text-large: 1.125rem; /*18px*/
+    --text-regular: 1rem; /*16px*/
+    --text-small: 0.875rem; /*14px*/
+    --text-xsmall: 0.75rem; /*12px*/
+    --text-tiny: 0.625rem; /*10px*/
+    /* Font weights */
+
+    --weight-light: 400;
+    --weight-regular: 500;
+    --weight-bold: 600;
+    --weight-xbold: 700;
+
+    /* Line heights */
+
+    --lh1: 0.875rem; /*14px*/
+    --lh2: 1rem; /*16px*/
+    --lh3: 1.125rem; /*18px*/
+    --lh4: 1.25rem; /*20px*/
+    --lh5: 1.375rem; /*22px*/
+    --lh6: 1.5rem; /*24px*/
+    --lh7: 3.25rem; /*52px*/
+    --lh8: 4.125rem; /*66px*/
+
+    /* Font Styles */
+    --normal: "normal";
+    --italic: "italic";
+
+    /* Spacing */
+    --s1: 0.125rem; /*2px*/
+    --s2: 0.25rem; /*4px*/
+    --s3: 0.5rem; /*8px*/
+    --s4: 0.75rem; /*12px*/
+    --s5: 1rem; /*16px*/
+    --s6: 1.25rem; /*20px*/
+    --s7: 1.5rem; /*24px*/
+    --s8: 2rem; /*32px*/
+    --s9: 2.5rem; /*40px*/
+    --s10: 3rem; /*48px*/
+    --s11: 3.5rem; /*56px*/
+    --s12: 4rem; /*64px*/
+    --s13: 4.5rem; /*72px*/
+    --s14: 5rem; /*80px*/
+
+    --s28 : 1.75rem;
+    --sz6 : 6px;
+    --sz10 : 10px;
+
+    /* Radius */
+
+    --r1: 2px;
+    --r2: 4px;
+    --r3: 8px;
+    --r4: 10px;
+    --r5: 50px;
+    --r6: 1000px;
+    --r12 : 12px;
+
+     /* border colors */
+  --border-primary: #ececec;
+  --border-secondary: #efefef;
+  --Border-light:#E8E7E7;
+  
+    /* variables end */
+}

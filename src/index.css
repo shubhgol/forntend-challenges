@@ -1,0 +1,17 @@
+p{
+    display: inline;
+}
+.bg{
+    background-color: blue;
+}
+.chipSection{
+    text-align: center;
+}
+.chipContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%
+}
+
+
+@import url('./variables.css');
